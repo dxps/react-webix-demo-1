@@ -19,3 +19,7 @@ Example of using webix libraby in react application.
   other - rerender table
 
 
+##### Refs
+
+* based on [React and Webix: Combining the Two Technologies](http://xbsoftware.com/blog/react-and-webix-combining-two-technologies/) article
+* with [source](https://bitbucket.org/ilyabasiuk/react-webix/src) code
